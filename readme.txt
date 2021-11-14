@@ -5,4 +5,4 @@ training project for git learning. see
 Added for merge testing.
 
 Added to push changes to master branch of remote repo. 
-Done from new git-bash session.
+Done from origin.
