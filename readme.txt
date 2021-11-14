@@ -3,4 +3,6 @@ training project for git learning. see
 2. IntelliJ IDEA - https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea
 
 Added for merge testing.
-Added to push changes to master branch of remote repo.
+
+Added to push changes to master branch of remote repo. 
+Done from new git-bash session.
