@@ -6,3 +6,4 @@ Added for merge testing.
 
 Added to push changes to master branch of remote repo. 
 Done from origin.
+Added to dev branch.
