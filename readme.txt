@@ -6,4 +6,6 @@ Added for merge testing.
 
 Added to push changes to master branch of remote repo. 
 Done from origin.
-Added to dev branch.
+
+Add changes to dev branch to learn next route:
+push dev -> remote dev -> merge to remote master -> pull to master
