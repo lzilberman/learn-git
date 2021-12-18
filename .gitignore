@@ -1,6 +1,7 @@
-*.class
-target/
-*.iml
 .idea/
-mytoken.txt
+.settings/
+target/
+.classpath
+.project
+
 
